@@ -1,4 +1,7 @@
 # Fraud_Detection_SQL-
+
+<img width="640" height="312" alt="image" src="https://github.com/user-attachments/assets/d4c36c8f-b490-476f-b112-42ab78a6775a" />
+
 Fraud Detection on credit card transations
 Background
 Fraud is everywhere these days—whether you are a small taco shop or a large international business. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
